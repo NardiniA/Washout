@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: Terms.html
+Disallow: Policy.html
+Allow: index.php
